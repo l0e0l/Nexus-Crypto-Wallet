@@ -52,8 +52,8 @@ So I built Nexus. It runs locally, storing everything encrypted on disk.
 ### Install & Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nexus-wallet.git
-cd nexus-wallet
+git clone https://github.com/l0e0l/Nexus-Crypto-Wallet.git
+cd Nexus-Crypto-Wallet
 
 pip install -r requirements.txt
 
