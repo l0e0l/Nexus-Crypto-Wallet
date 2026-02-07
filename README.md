@@ -21,6 +21,7 @@ I wanted something simple: generate a seed, derive my addresses, send and receiv
 I’m fed up with people collecting my data, digging through it, and selling it. We don’t know how they use it, and I refuse to become a product for them.
 
 So I built Nexus. It runs locally, storing everything encrypted on disk.
+
 ---
 
 ## What It Does
