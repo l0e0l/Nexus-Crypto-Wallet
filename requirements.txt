@@ -1,0 +1,15 @@
+customtkinter>=5.2.0
+Pillow>=10.0.0
+qrcode>=7.4
+pyperclip>=1.8
+requests>=2.31
+bip_utils>=2.9.0
+cryptography>=41.0
+eth-account>=0.11.0
+bit>=0.8.0
+bitcash>=0.6.0
+solders>=0.21.0
+ecdsa>=0.18.0
+base58>=2.1.0
+pynacl>=1.5.0
+tronpy>=0.4.0
